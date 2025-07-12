@@ -24,7 +24,6 @@
 ### Links
 
 - Source Code: [view on GitHub](https://github.com/Sibi-Ram/QR-Code)
-- Live Site URL: [QR code Component website](https://sibi-ram.github.io/QR-Code/)
 
 ### Built with
 
