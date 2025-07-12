@@ -41,7 +41,7 @@ p,h1{
   color: #1F314F;
   font-size: 1.375rem ;
   
-  
+  padding-top:0.75em;
 
 
 }
@@ -54,6 +54,7 @@ p,h1{
   letter-spacing: 0.0125em;
   padding-left:1em;
   padding-right:1em;
+  padding-bottom:0.75em;
 
   
 
